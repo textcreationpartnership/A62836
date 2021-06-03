@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A taste of the doctrine of the newly erected exercise at Thomas-Apostles London Which began on Friday the third of this instant December 1652. Modestly propounded to caution the actors. Counsel the hearers. By a lover of verity &amp; unity. Who cordially desireth that old light in measure may increase and flourish, whilst new light in matter, may decrease and vanish.</title>
+            <author>Lover of verity &amp; unity.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62836</idno><idno type="EEBO-CITATION">99832975</idno>
+  <idno type="VID">37450</idno>
+  <idno type="EEBO-PROQUEST">2240904677</idno>
+  
+            <idno type="STC">Wing T174C</idno>
+            <idno type="STC">ESTC R221702</idno>
+            <idno type="PROQUEST">99832975</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832975e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2155:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A taste of the doctrine of the newly erected exercise at Thomas-Apostles London Which began on Friday the third of this instant December 1652. Modestly propounded to caution the actors. Counsel the hearers. By a lover of verity &amp; unity. Who cordially desireth that old light in measure may increase and flourish, whilst new light in matter, may decrease and vanish.</title>
+                  <author>Lover of verity &amp; unity.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A.M. for Nathaniel Webb and William Grantham at the sign of the black Bear in Pauls Church-yard near the little north-door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Caution ... hearers." and "verity &amp; unity" are bracketed together on title page.</note>
+                  <note>Pages torn with some loss of print.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">St. Thomas the Apostle (Church : London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37450:1"/>
+            <pb facs="tcp:37450:1"/>
+            <p>A TASTE OF THE DOCTRINE of the newly Erected EXERCISE AT <hi>Thomas-Apostles</hi> London.</p>
+            <p>Which began on Friday the third of this instant <hi>December</hi> 1652.</p>
+            <p>MODESTLY PROPOUNDED
+<list>
+                  <item>To Caution the Actors.</item>
+                  <item>To Counsel the Hearers.</item>
+               </list>
+            </p>
+            <p>By a Lover of Verity &amp; Unity. Who cordially desireth that
+<q>
+                  <l>Old light in measure may increase and flourish, <hi>Whilst</hi>
+                  </l>
+                  <l>New light in matter, may decrease and vanish.</l>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A.M.</hi> for <hi>Nathaniel Webb</hi> and <hi>William Grantham</hi> at the Sign of the black Bear in <hi>Pauls</hi> Church-yard near the little North-door. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37450:2"/>
+            <pb n="1" facs="tcp:37450:2"/>
+            <head>To the Bretheren consenting and combined, for carrying on the Conference, Lecture, Exercise or Meeting, at <hi>Thomas Apostles</hi> Church <hi>London,</hi> on Friday evenings, and begun on Friday last the <hi>3<seg rend="sup">d</seg>
+               </hi> of this instant <hi>Decemb. 1652.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Brethren</hi> (for so I desire to call and prove you;)</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Pon publike notice given in print and Pulpits, of a Conference to be held by you, and a Lecture to be heard, for the resolving of doubts and cases of conscience, by reconciling of Scriptures that seem to differ: I amongst others (I hope of the people of God) came on Friday last, to the place and at the time appointed, expecting the benefit and comfort of a work of that nature: but (to my great grief and trouble of spirit,) was fai<g ref="char:EOLhyphen"/>led in my expectation, not only in the matter propounded and published: finding in stead of conference, the discourses of different men, concerning their own<note n="*" place="margin">I shall pro<g ref="char:EOLhyphen"/>pound to you such medita<g ref="char:EOLhyphen"/>tions or thoughts as I have had on this Scripture since I came into this place, was the pre<g ref="char:EOLhyphen"/>face of your Speaker: there<g ref="char:EOLhyphen"/>fore I call them sudden.</note> sudden rather then serious thoughts, upon a portion of Scripture, no way noting the seeming differen<g ref="char:EOLhyphen"/>ces, or speaking the sense of the Spirit of God by way of reconci<g ref="char:EOLhyphen"/>liation: but also in the effect, looked for from M. <hi>Rogers,</hi> your Pul<g ref="char:EOLhyphen"/>pit-man and Preacher of the Lecture for that time: for although I must and am ready to confesse, that from the Scripture handled, he spake many profitable truths, yet he started some questions, as cases of conscience to be resolved, which, being not to my appre<g ref="char:EOLhyphen"/>hension fully cleared, have left me in the dark; and the Scriptures (if I may speak it without offence) much to jar and differ. Be<g ref="char:EOLhyphen"/>ing thus failed in expectation, I cannot smoother the same in si<g ref="char:EOLhyphen"/>lence, least I should do my self, you, and the people of God wrong; I have therefore thought fit, and made hold, in a spirit of meek<g ref="char:EOLhyphen"/>nesse, modestly to propound the matters of practice and principle, wherein I stand dissatisfied in the managing of your last Lecture; and so through that dissatisfaction, offended, and jealous, least your Exercise will have some sad influence on the Churches of God, besides particular souls: And I must intreat you not to take offence at this publique manner of proposall. 1. For that it is <milestone type="tcpmilestone" unit="unspecified" n="1"/> but sutable to your making publique your Exercise to all the Nati<g ref="char:EOLhyphen"/>on,
+<pb n="2" facs="tcp:37450:3"/> even in Print, as if you intended the sun to see all the trans<g ref="char:EOLhyphen"/>actions <milestone type="tcpmilestone" unit="unspecified" n="2"/> of your Exercise. 2. For that the thing is of publick con<g ref="char:EOLhyphen"/>cernment; the vindicating and clearing, or censuring and con<g ref="char:EOLhyphen"/>demning of certain publique Principles and Practices of the Church of God, retained many years: the deceiving or undecei<g ref="char:EOLunhyphen"/>ving of that multitude of people, from all quarters of the City, at <milestone type="tcpmilestone" unit="unspecified" n="3"/> the same time and place subjected to your doctrine. 3. But es<g ref="char:EOLhyphen"/>pecially, as being thereunto compelled by your selves; in that after a proclaimed conference had brought together many of doubtfull mindes, and different judgements, expecting the liberty of propounding and receiving answer, you publiquely denied it, being challenged; and declared an incapacity of speaking against or to any thing asserted, unlesse a man would first declare himself a member of some of your selected and separate Congregated Churches; the which put a gag in my mouth, and silenced my tongue, though my heart swelled, and was often ready to vent, had not want of candlelight, with willingnesse to countenance order (though irregular) and so free my self from the charge of violence (which I could wish you were not so apt to charge on such as object against what is by you asserted) commanded my present compliance, and so communication of my thoughts by this way; whereby I shall now briefly propound what I might have objected, and leave them to your discretions to clear up or vindicate to the people of God, that shall hereafter wait upon your Exercise.</p>
+            <p>The first offence that presented it self is, in respect of practice; <hi>viz.</hi> Your setting up men of private places and particular callings, whose education and want of intention to the work of the Mini<g ref="char:EOLhyphen"/>stry (untill of late years) must needs bespeak want of qualifica<g ref="char:EOLhyphen"/>tion to so great a work, whilst they unacquainted with the origi<g ref="char:EOLhyphen"/>nals of the Scripture (which are emphaticall) must needs see dark and obscure places, but by the light of our Translation, which you must needs confesse to be but a thick and dimme <hi>medium</hi> to the end of reconciling Scripture; though clear to shew truths tending to the <hi>esse,</hi> and many things to the <hi>bene esse</hi> of the soul; to common capacities; or if they have qualification, I fear either received not, or renounce Ordination; and so, though able, come to speak without the Authority of the Lord Jesus (which M. <hi>Ro<g ref="char:EOLhyphen"/>gers</hi> declared essential to a Minister.)</p>
+            <p>Secondly, In respect of doctrine: I shall principally note to
+<pb n="3" facs="tcp:37450:3"/> you my dissatisfactions in some things asserted by M. <hi>Rogers;</hi> though the foregoing speakers were very obscure, and provoked an enquiry in my spirit concerning what they spake. Yet I shall referre it to its proper place in his Sermon, where he spake more expressely to it.</p>
+            <p>Mr. <hi>Rogers</hi> speaking from <hi>Luke</hi> 14.23. <hi>And the Lord said un<g ref="char:EOLhyphen"/>to the servant, Go out into the high waies and hedges, and compel them to come in that my house may be filled,</hi> Having spoken in ge<g ref="char:EOLhyphen"/>nerall, and resolved the words into a generall Proposition, speak<g ref="char:EOLhyphen"/>ing to the several particular Observations therein, spake first of the servant in the Text, and resolved</p>
+            <p>
+               <hi>That such as go to call sinners unto Christ, must not be only and barely subjects, but Servants and Ministers by vertue of Office.</hi>
+            </p>
+            <p>Which he noted was to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by qualification, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>potestate,</hi> by authority of Office. And having propounded it as a case of Conscience to be resolved, how they received this autho<g ref="char:EOLhyphen"/>rity? and answering in generall, From God, by holy unction of the Spirit, left us in the dark concerning the manner of giving the same, whether visibly and immediatly, as in the Apostolike daies; or invisibly and mediatly, as in and by the Ordinances. Then particularly from the Church, which he said was the election and choosing of the people, saying expressely, that Ordination (of long retained in the Church, as that which did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> denominate and authorize a Minister,) was nothing, not worth disputing, nor time to speak of: To which assertion, as I could not heretofore assent, so his answer being little more then his own assertion of it, did not reach the conscience; and the Scriptures urged by him to place the authority of a Minister in the election of the particular (for I cannot imagin he meant the universall) Church, (as to my present thoughts) were so far from reconciliation with other Scri<g ref="char:EOLhyphen"/>ptures, that according to his sense, they jar in themselves: as that in <hi>Acts</hi> 6.3. Choose you <hi>men full of the holy Ghost:</hi> is so far from proving their election to be the inauguration into their Office, that it seems to be but the preface to the work: for if they had been by vertue of that, and the Church had the power to create them, why is it in the same verse said, <hi>whom we may ordain or appoint?</hi> and in <hi>verse</hi> 6. <hi>they set them before the Apostles:</hi> nay, and the Apostles by prayer and imposition of hands did install them into their Office.</p>
+            <p>By this text the holy Ghost seems (to me) to shew; that, as in
+<pb n="4" facs="tcp:37450:4"/> Offices politicall, election and inauguration are distinct: that the Lord Maior elect, is not <hi>(ipso facto)</hi> Lord Maior, till he be installed at <hi>Westminster:</hi> so is it in Offices Ecclesiasticall, the Pastors elect are not <hi>(ipso facto)</hi> Gospel-Ministers, untill set before Ministers, prayed for, and set apart by laying on of hands. But further to back this Scripture, and shew har<g ref="char:EOLhyphen"/>mony; he seconds it with <hi>Acts</hi> 14 23. <hi>And when they had or<g ref="char:EOLhyphen"/>dained them Elders in every Church, and had prayed with fasting, &amp;c.</hi> Whence he inferred, that the Church of <hi>Antioch</hi> ordained them: and told us, they did it with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>elovatione mannum,</hi> with a holding up of the hand, as a token of their election; not with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, laying hands on them: to which, when I remem<g ref="char:EOLhyphen"/>bred that some of the Learned had confounded these termes, my spirit could not relish the contradiction of them: yet looking for M. <hi>Rogers</hi> to reconcile (according to the end of his Lecture) this with other Scriptures, I was failed therein, and therefore should have desired him to tell us whether we are be fool'd in our Tran<g ref="char:EOLhyphen"/>slations, when we reade, <hi>By the laying on of hands,</hi> and it should be <hi>By holding up of the hands:</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> And whether a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be not found in the Apostolicall Ordination, as in <hi>Acts</hi> 6.6. 1 <hi>Tim.</hi> 4.14.5.22. which our Translation reads, <hi>Laid on hands,</hi> and I beleeve the Original will bear it. I see then little reconciliation between these and M. <hi>Rogers</hi> sense.</p>
+            <p>But besides this difference of Scriptures one with another, I humbly conceive M. <hi>Rogers</hi> differed from the true sense and scope of the Text it self, when he affirmed, that the Church of <hi>Antioch</hi> ordained themselves Elders; for it is clear to me, that they that did ordain, ordained for others, and not themselves; for saith the Text, They did it in every Church; was any more Churches then one at that time in <hi>Antioch?</hi> and if there were, which was the Church that created Elders for other Churches by holding up their hands? Nay it is clear (in my judgement) that these that did or<g ref="char:EOLhyphen"/>dain, did it as well at <hi>Lystra</hi> and <hi>Iconium,</hi> as <hi>Antioch;</hi> and he that will reade the foregoing verses, and observe the connexion, cannot but see it: Nay moreover, those that did ordain, had one of them been stoned at <hi>Lystra;</hi> and both of them went about preaching and confirming the Disciples, and this I hope you will not say was the hand-holding-up Church, but <hi>Paul</hi> and <hi>Barnabas.</hi> Moreover, when I observe this ordaining Elders to be accompa<g ref="char:EOLhyphen"/>nied with fasting and prayer, it agrees with the manner of other
+<pb n="5" facs="tcp:37450:4"/> Ordinations by the Apostles, and argues something essential to the constitution of a Minister besides Election; and if Election were sufficient at <hi>Antioch,</hi> it sounds harsh in my ears that the Church at <hi>Jerusalem</hi> must present their elect Officers for Ordination before the preaching Apostles; and that <hi>Titus</hi> must be left at <hi>Creet</hi> to ordain Elders in every City; which had been a groundlesse tar<g ref="char:EOLhyphen"/>riance, and needlesse Commission, if election of the Church had done it.</p>
+            <p>The second thing which (by the darknesse of its discovery) dis<g ref="char:EOLhyphen"/>quieted my thoughts, was this: After the generall advancement of free-grace, without any notes concerning the way of its ope<g ref="char:EOLhyphen"/>ration in a poor soul, by the speakers, M. <hi>Rogers</hi> in his third ob<g ref="char:EOLhyphen"/>servation (as I remember) concerning the parties called, <hi>viz.</hi> they that were in the high-wayes and under the hedges, obser<g ref="char:EOLhyphen"/>ved, Most miserable and sinfull souls, drunkards, adulterers, swearers, and in the act of the vilest sin, were to come to Christ, And thence propounded this case of conscience, Whether a poor souls mourn<g ref="char:EOLhyphen"/>ing for sin, humiliation, and discharge of good duties, were not, or might not be an argument of comfort to his soul? The which he answered in the negative, That they might not, without any distinction; declaring in very generall terms all our sancti<g ref="char:EOLhyphen"/>fication and humiliation were not worth a tear, and a tear was worth nothing; Now although I could assent to this, in re<g ref="char:EOLhyphen"/>spect of being the objects of a faith of adherence and justifying, whereby the sinfull soul is upon sense of an undone estate to cast it self on Christ and Christ only, as on the rock on which it may and must be safe: yet the reflections of that free grace (that carrieth out the soul to adherence on Christ) in sorrow for sin, subjection to Christ in Ordinances, sanctified life, and the like, I conceive to be arguments of the faith of assurance: and so of a<g ref="char:EOLhyphen"/>bundant comfort to a beleeving and dejected soul: and hence the spirit of holinesse is called in its sanctified operations on the heart,<note place="margin">Rom. 8.23. Eph. 1.13, 14.</note> first-fruits, seal, earnest; being the evidence of our interest in Christ: and hence also we are exhorted in the Gospel to prove our selves by mortification of sin, and sanctification of soul, whe<g ref="char:EOLhyphen"/>ther Christ be in us, which is the foundation of our sensible com<g ref="char:EOLhyphen"/>fort: this kinde of argument I cannot but observe the Apostles to suggest, as 2 <hi>Pet.</hi> 1. <hi>adde to faith vertue, to vertue temperance,</hi>
+               <note place="margin">2 Pet. 1.5.</note> &amp;c. that you may <hi>make your calling and election sure:</hi> and in 1 <hi>Jo.</hi> 2.3, 4, 5, 6. <hi>Hereby we know that we know him, and that he is in us,
+<pb n="6" facs="tcp:37450:5"/> if we keep his Commandements, and walk as he walked:</hi> Besides the force of this Apostollical direction, the Apostle <hi>Paul</hi> by his own example doth dictate unto Christians the liberty of rejoycing (if I may not say triumphing) in their sanctified conversation, in 2 <hi>Cor.</hi> 1.12.<note place="margin">
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+               <hi>This is our boasting, the testimony of our conscience, that in simplicity and godly sincerity we have had our conversation.</hi> And 2 <hi>Tim.</hi> 4 8. <hi>I have fought a good fight, I have finished my Course; I have kept the Faith:</hi> &amp;c. so that had M. <hi>Ro<g ref="char:EOLhyphen"/>gers</hi> distinguished between faith of adherence as to justifica<g ref="char:EOLhyphen"/>tion before God; and saith of assurance as to the consolation of drooping and doubting souls, Scripture had agreed: but whilest in generall terms he decried all comfort of those sweet reflections of grace, and that in resolution to a case of conscience; it stirred up in my spirit a jealousie and suspition, that whilest he would keep us off the rock of Popish merit, he should hazard our peace upon the Antinomian licentiousnesse and remissenesse unto pious duties.</p>
+            <p>The third and last thing, which was not the least dis-satisfying and offensive to my spirit, was under that observation of M. <hi>Rogers</hi> concerning the men in the waies and hedges, and the house into which they were called: where I must be bold to tell you that I conceive M. <hi>Rogers</hi> did wring the nose of the Parable, and step out of the way into the waies and hedges, when he applied that qua<g ref="char:EOLhyphen"/>lity to Christians whereby the holy Ghost set out the estate of the Gentiles and Pagans, and to make that the Feast the Lords Supper (or as he said; to call it more properly, breaking of bread, though I know no reason so much to appropriate that denomination) which is to hold out the whole work of the Gospel whether in Word or Sacraments with the comforting effects thereof; but more espe<g ref="char:EOLhyphen"/>cially to declare the house of this Feast to be your Churches in a separate and congregated way, as he in generall with a great heat of affection, (to avoid bitternesse, not to say passion, though more proper I fear) held forth and endeavoured to instill into us, calling with violence into it, and affirming all of us out of it to be in the high-waies and hedges, and so could not have the Lords Supper or breaking of bread. Had he only spoken of the unbeleeving Pagans the Gentiles (that are without doubt meant in the Parable, though it was never so exprest by your speakers or Pulpit-man) coming into the Church of God in generall, with<g ref="char:EOLhyphen"/>out a limitation thereof to this and that subject, I had assented and
+<pb n="7" facs="tcp:37450:5"/> concluded <hi>Extra Ecclesiam nulla salus:</hi> but in that he did limit it, I cannot but dissent and tell you, that I apprehend much violence, and<note n="*" place="margin">Were it cha<g ref="char:EOLhyphen"/>rity for a child in your way to say of his god<g ref="char:EOLhyphen"/>ly parent, that he were in the waies and hed<g ref="char:EOLhyphen"/>ges because out of your way.</note> uncharitablenes in you, not only towards the Churches of God in <hi>England</hi> which you have owned, and where you were called many of you to Christ, if you have ever known him, but also to other Christian Churches not in your way: but lest you should think I mistook his Limitation, and apprehend amisse, I humbly offer these reasons for my apprehension of him: and submit them to any competent and ingenuous Judge.</p>
+            <p n="1">1. All were declared as incapable of speaking, in your Exer<g ref="char:EOLhyphen"/>cise, that did nor declare themselves members of some such Church: which argues what Church he was to call unto.</p>
+            <p n="2">2. He spake to members of the visible Church of Jesus Christ, and yet by way of distinction, calling some out of the high-waies and the hedges, into the house, to communicate in breaking bread; I cannot imagine he called into the Church invisible, for that giveth not a capacity of the Lords Supper or breaking of bread, who then but your Assemblies can be understood by this house, into which the members of the visible Church as heathen not yet in the faith are called.</p>
+            <p n="3">3. He all along held out his house by this Epethite, <hi>our fellow<g ref="char:EOLhyphen"/>ship,</hi> saying, we come to call, we cannot bring this Feast out, come to us, joyn in our way; all which are terms of propriety and spe<g ref="char:EOLhyphen"/>cialty: and do we not know, that you that are actors in that ex<g ref="char:EOLhyphen"/>ercise, are and have declared your selves to be of such congregated separate Churches.</p>
+            <p n="4">4. In answering the objection that he started, that many godly men and beleevers were not of your minde, and your way, and could not joyn in your fellowships, and yet desired the Lords Sup<g ref="char:EOLhyphen"/>per, did he not clearly appropriate the wedding Feast to your As<g ref="char:EOLhyphen"/>semblies, and there limit it by way of allusion, calling in, all that would enjoy it, declaring notwithstanding such desire, they were in the hedges and high-waies, and that such Ministers as gave this Ordinance not in your way, carried it out of the house, and those that received with them rejected this Feast, for not coming into your way which he would suggest to be the house of God.</p>
+            <p>I leave it now to your selves ingeniously to determine whether although he did not speak it in expresse terms <hi>totidem verbi<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> yet by these arguments any ingenious man may not see t<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> object that he pointed at to be separate and congregated <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>semblies,
+<pb n="8" facs="tcp:37450:6"/> and so seems not your design to be to propagate that principle, <hi>viz.</hi> that there is such a necessity of entring into a Church-way (that is of Independency) that there is no expe<g ref="char:EOLhyphen"/>ctation of salvation without it:<note place="margin">
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of truth opened</note> Will not this conclusion naturally flow from these premises? You are in the waies and hedges in plain English according to the scope of the Parable, Gentiles, that ye know not <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st: We dare not, our Commission allows it not to bring this Feast to you, for we bring it out of the house: if you come not unto <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you reject Christ: all which with many such like were his common zealous expressions.</p>
+            <p>Yet before I can assent to such assertions, I must see how your recon<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ling Lecture will reconcile your principle,<note place="margin">1 C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 5.</note> and the Scri<g ref="char:EOLhyphen"/>pture; though Scripture do require the parging of pollutions out of the Churches corrupt, where doth it denominate the corrupted Pagans, and bid the pure <hi>Corinthians</hi> go to his house at <hi>Galatia, Ephesus, Philippi,</hi> or the like; and that especially when the Church is with a spirit of zeal purging themselves of all pollutions: what Scripture doth warrant collection of Churches out of Churches, whilest such: or what Scripture doth evidence the Church of God in <hi>England</hi> to be annihilated and run to the high-waies and hed<g ref="char:EOLhyphen"/>ges again: what Scripture doth warrant private mens constitu<g ref="char:EOLhyphen"/>tion of Churches without the authority of publique Ministry: in a word, what Scripture doth denominate you to be the house of this great King, exclusively, shutting all other Congregations from this priviledge, and so enjoying the Wedding Feast: I pray you (Brethren) consider these things well, and see whether you give not cause of fear? whether your zeal be according to knowledge? Whether (whilest you are apt to cry out of violence, bitternesse, and censuring, when justly reproved for your erroneous practices and principles) you do not detect an exceeding censorious, and un<g ref="char:EOLhyphen"/>charitable spirit, much below your meeke expressions: when you do ministerially and in the name of the Lord declare, and damne to the very pit of hell such and those multitudes of men and women, which your selves will singly own as beleevers in covenant with God, saying, this is a godly man, and that is a good woman, but— and that only because they come not to your way and fellowship, although it hath many years since been desired, and a long time expected, that your standing principles that should guide your con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ant practice might be exhibited that they might be tried, but or <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld not to this day be obtained.</p>
+            <pb n="9" facs="tcp:37450:6"/>
+            <p>Thus (Brethren) I have modestly propounded the dissatisfacti<g ref="char:EOLhyphen"/>ons of my Spirit in the first act of your exercise, and shall desire it may be received by you, as tendred by me, in a spirit of meek<g ref="char:EOLhyphen"/>nesse, and that the truth clouded in the first, may be cleared in the succeeding Exercises: and Scriptures wronged may be righted, people of God harshly though unjustly censured may be vindica<g ref="char:EOLhyphen"/>ted; lest you lie under that character of seducers, by making Scri<g ref="char:EOLhyphen"/>ptures differ: whilest you pretend to make them agree, and judging others whilest your selves would be judged of none; I leave these lines to you with these declared ends, that it may cautionate you what doctrines you divulge, and principles you suggest, to such as I hope will try them: I must tell you that pretences of piety, and professions of unity have in the Church of God been observed to be the <hi>Prologomena</hi> of schisme and separations: that preaching of some golden truths interlined with errours, because not fundamen<g ref="char:EOLhyphen"/>tall, lesse regarded by common audience to be the <hi>praeludium</hi> and shooing-horn of more horrid heresie: I pray you take heed whilest you proclaim your selves to be guides of others, that you look not on the truths and people of God with Jaundies eyes, or through the coloured glasse of a prejudicate opinion.</p>
+            <p>To the people of God I propound these as counsell, to take heed whom and what they hear, lest they be taken at unawares; I wish they may remember, <hi>All is not gold that glisters.</hi> And that the devil may seduce by appearing as an Angel of light.</p>
+            <p>As for my self, I doubt not to finde the comfort of this dischar<g ref="char:EOLhyphen"/>ged duty, though derided by some for it; and if you enquire and wonder my Name is not subscribed, I desire you to observe the reasons to be these: My person is not known to most if any of you if my Name were written: and it may be the name might provoke prejudice against the thing proposed: It is sufficient to you, that dissatisfaction is signified, especially where the matter is not per<g ref="char:EOLhyphen"/>sonall but publique to the Church of God, though among the vast multitude of your hearers you know not the man: this I shall pro<g ref="char:EOLhyphen"/>fesse my self to be, one resolved to supplicate the Throne of grace, that a successive Gospel-Ministry may be continued in the Church<g ref="char:EOLunhyphen"/>es of God in this Nation, to be ordained by the laying on of t<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hands of the Presbytery; that the Candlestick and lights the<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> may never fall, which it will do if the cord of Ordination be <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed: as also that beleeving souls may rejoyce in, and be comfo<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by the reflexions of free-grace by a sanctifying spirit, and the <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:37450:7"/>
+               <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preserved, and that measure of unity that is among any the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vants of God be continued, untill you sensible of the sad effects <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dividing principles and separating practices, cry unfeinedly to<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord Jesus:<note place="margin">Cant. 1.7.</note>
+               <hi>Shew us O thou whom our soul loveth, where th<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> feedest, where thou makest thy flocks to rest, for why should we <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aside by the flocks of thy companions.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
